@@ -1,3 +1,3 @@
 # HappyDiet
 HappyDiet
-Based on https://github.com/vishnuraghavb/EnRecipes
+based on https://github.com/vishnuraghavb/EnRecipes
