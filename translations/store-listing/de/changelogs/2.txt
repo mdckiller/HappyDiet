@@ -1,0 +1,7 @@
+- Hinzufügen von Abschnitten zu deinen Rezeptzutaten und Anweisungen
+- Das Hinzufügen oder Entfernen von Elementen im Rezepteditor ist jetzt noch einfacher
+- Zutatenmengen werden jetzt in Brüchen angezeigt
+- Die Einheiten der Zutaten werden bei der Skalierung automatisch umgerechnet
+- Umschalten des Einheitensystems unter Schnittstelleneinstellung
+- Erweiterter Import und Export
+- Fehlerkorrekturen und Verbesserungen

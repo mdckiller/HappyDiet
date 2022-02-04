@@ -1,0 +1,8 @@
+- Agora pode escolher um tema padrão do sistema para seguir a configuração do modo escuro do seu dispositivo (para Android 10 e superior)
+- Adicionada ferramenta de cronómetro de cozedura
+- Página de configurações individuais para cada ferramenta
+- As receitas agora podem ser classificadas por ordem aleatória
+- Suporte a idiomas de escrita da esquerda para a direita (RTL)
+- Imprimir receitas
+- Duplicar receitas
+- Interface reformulada na planificação de refeições

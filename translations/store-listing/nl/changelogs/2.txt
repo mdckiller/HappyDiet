@@ -1,0 +1,7 @@
+[NIEUW] Voeg secties toe aan ingrediëntenlijsten en bereidingswijzen;
+[NIEUW] Hoeveelheden ingrediënten worden voortaan getoond in fracties;
+[NIEUW] Eenheiden worden automatisch omgezet na aanpassen van de hoeveelheid;
+[NIEUW] Kies andere eenheden op het tabblad ‘Vormgeving’;
+[VERBETERD] De import- en exportmogelijkheden zijn uitgebreid;
+[VERBETERD] Het toevoegen en verwijderen van items is vereenvoudigd;
+[OPGELOST] Diverse fouten opgelost.

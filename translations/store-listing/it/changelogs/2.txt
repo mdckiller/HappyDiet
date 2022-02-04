@@ -1,0 +1,7 @@
+- Aggiungta sezioni agli ingredienti e alle istruzioni della tua ricetta
+- Aggiungere o rimuovere elementi nell'editore di ricette è ancora più facile
+- Le quantità degli ingredienti sono ora mostrate in frazioni
+- Le unità degli ingredienti sono convertite automaticamente durante la scalatura
+- Cambia sistema di unità sotto l'impostazione dell'interfaccia
+- Importazione ed esportazione estese
+- Correzioni di errori e miglioramenti

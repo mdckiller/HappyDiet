@@ -1,0 +1,37 @@
+AVISO IMPORTANTE para usuários com EnRecipes v1.3.2 ou anterior:
+
+Para continuar recebendo atualizações, por favor atualize seu EnRecipes para esta versão.
+
+Há algumas mudanças significativas nesta versão. Então, para continuar, você deve fazer o seguinte:
+1. Exportar uma cópia de segurança completa.
+2. Desinstalar EnRecipes.
+3. Instale esta versão e importe os seus dados.
+
+EnRecipes é um livro de receitas digital de código aberto, amigo da privacidade, que lhe permite criar, gerir e partilhar as suas receitas.
+
+Características:
+
+- Crie receitas rapidamente
+- Adicione foto, combinações e notas às suas receitas
+- Organize as suas receitas por cozinha, categoria e etiquetas
+- Adicione receitas à sua lista de Experimentar Mais Tarde e marque-as como favoritas
+- Pesquise rapidamente receitas por título ou ingrediente
+- Escale os ingredientes da sua receita para servir mais ou menos pessoas
+- Seja notificado sobre a última vez que experimentou uma receita
+- Compartilhe sua receita com qualquer pessoa, por qualquer meio, como uma mensagem bem formatada. Você também pode compartilhar a foto da receita.
+- Agite o seu dispositivo para visualizar uma receita aleatória.
+- Crie planos de refeições
+- Defina temporizadores de cozimento / cozedura.
+- Você pode Importar ou Exportar seus dados
+- Tem temas Claros, Escuros e Pretos
+
+Destaques:
+
+- 100% livre e de código aberto
+- Privado por Design
+- Não requer permissões especiais
+- Sem anúncios ou pop-ups irritantes
+
+Créditos:
+
+Este aplicativo foi escrito no meu tempo livre usando NativeScript-Vue. Gostaria de agradecer a todas as pessoas que me ajudaram a entender os conceitos durante o processo e meu agradecimento especial à equipe do NativeScript e à comunidade. Gostaria também de agradecer aos membros do grupo do Telegram EnRecipes pela contribuição de suas idéias para este projeto.

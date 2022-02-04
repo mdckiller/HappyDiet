@@ -1,0 +1,35 @@
+Um weiterhin Aktualisierungen zu erhalten, aktualisiere bitte EnRecipes auf diese Version.
+
+In dieser Version gibt es einige wesentliche Änderungen. Um fortzufahren, musst du also Folgendes tun:
+1. Exportiere eine vollständige Datensicherung.
+2. Deinstalliere EnRecipes.
+3. Installiere diese Version und importiere deine Daten.
+
+EnRecipes ist ein quelloffenes, datenschutzfreundliches digitales Kochbuch, mit dem du deine Rezepte erstellen, verwalten und teilen kannst.
+
+Funktionen:
+
+- Schnelles Erstellen von Rezepten
+- Hinzufügen von Fotos, Kombinationen und Notizen zu deinen Rezepten
+- Organisiere deine Rezepte nach Küche, Kategorie und Markierungen
+- Füge Rezepte zu deiner Liste „Später ausprobieren“ hinzu und markiere sie als Favoriten
+- Schnelles Suchen von Rezepten nach Titel oder Zutat
+- Skaliere deine Rezeptzutaten, um mehr oder weniger Personen zu versorgen
+- Lasse dich benachrichtigen, wenn du ein Rezept zuletzt ausprobiert hast
+- Teile dein Rezept auf beliebige Weise als schön formatierte Nachricht mit anderen. Du kannst auch das Rezeptfoto teilen.
+- Gerät schütteln, um ein zufälliges Rezept anzuzeigen
+- Erstellen von Mahlzeitenplänen
+- Kochtimer
+- Du kannst deine Rezepte importieren/exportieren
+- Hat Helle, dunkle und schwarze Designs
+
+Höhepunkte:
+
+- 100 % kostenlos und quelloffen
+- Datenschutz als Standard
+- Keine spezielle Berechtigungen erforderlich
+- Keine lästige Werbung oder Popups
+
+Danksagung:
+
+Diese Anwendung wurde in meiner Freizeit mit NativeScript-Vue geschrieben. Ich möchte mich bei all den Leuten bedanken, die mir während des Prozesses geholfen haben, die Konzepte zu verstehen. Mein besonderer Dank gilt dem NativeScript-Team und der Gemeinschaft. Ich möchte mich auch bei den Mitgliedern der Telegram EnRecipes-Gruppe bedanken, die ihre Ideen für dieses Projekt beigesteuert haben.

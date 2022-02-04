@@ -1,0 +1,32 @@
+Update EnRecipes naar deze versie om updates te blijven ontvangen.
+
+Deze versie bevat enkele grote wijzigingen, dus moet je als volgt te werk gaan:
+1. Exporteer een volledige back-up;
+2. Verwijder EnRecipes;
+3. Installeer deze versie en importeer je gegevens.
+
+EnRecipes is een privacy-respecterend, open source digitaal kookboek waarmee je recepten kunt samenstellen, beheren en delen.
+
+Mogelijkheden:
+- Stel eenvoudig recepten samen;
+- Voeg foto's, combinaties en aantekeningen toe;
+- Organiseer recepten op keuken, categorie en labels;
+- Voeg recepten toe aan de ‘Later uitproberen’-lijst of voeg ze toe aan je favorieten;
+- Zoek op receptnaam of ingrediënten;
+- Pas hoeveelheden aan op basis van het aantal mensen waarvoor je kookt;
+- Ontvang meldingen over de laatste keer dat je een recept hebt gebruikt;
+- Deel je recept met anderen, evt. inclusief de bijbehorende foto;
+- Schud je apparaat om een willekeurig recept te tonen;
+- Maak maaltijdschema's;
+- Stel kookwekkers in;
+- Importeer/Exporteer recepten;
+- Keuze uit een licht, donker of zwart thema.
+
+Kenmerken:
+- 100% vrije, opensourcesoftware;
+- Ontworpen met privacy als uitgangspunt;
+- Geen rechten vereist;
+- Geen irritante reclame of pop-ups.
+
+Dankwoord:
+- Deze app heb ik in mijn vrije tijd gemaakt met NativeScript-Vue. Ik wil iedereen bedanken die geholpen heeft bij het uitwerken van de app, evenals het NativeScript-team en de bijbehorende gemeenschap. Ook wil ik de leden van de EnRecipes-groep op Telegram bedanken voor het aandragen van ideeën.

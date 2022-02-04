@@ -1,0 +1,580 @@
+// Colours
+$gray0: #f8f9fa;
+$gray1: #f1f3f5;
+$gray2: #e9ecef;
+$gray3: #dee2e6;
+$gray4: #ced4da;
+$gray5: #adb5bd;
+$gray6: #868e96;
+$gray7: #495057;
+$gray8: #343a40;
+$gray9: #212529;
+$gray10: #000000;
+$orange: #ff5200;
+
+// FontSizes based on Minor Third
+$t1: 25;
+$t2: 21;
+$t3: 17;
+$t4: 14;
+$t5: 12; // Base
+$t6: 10;
+
+Page {
+  font-family: 'Inter-Medium', sans-serif;
+  font-size: $t4;
+}
+.ico {
+  font-family: 'EnRecipes';
+  font-size: 23;
+  &.s {
+    font-size: $t3;
+    opacity: 0.5;
+  }
+}
+.vc {
+  vertical-align: center;
+}
+.tb {
+  font-family: 'Inter-Bold', sans-serif;
+}
+.tc {
+  text-align: center;
+}
+.tw {
+  text-wrap: true;
+}
+
+.pTitle {
+  font-size: $t1;
+  padding: 16 16 24;
+}
+
+.Light {
+  color: $gray9;
+  background: $gray1;
+  Page,
+  .sticky {
+    background: $gray1;
+  }
+  TextField,
+  TextView {
+    border-color: $gray3;
+    placeholder-color: $gray5;
+  }
+  .modalInput {
+    border-color: $gray2;
+  }
+  .appbar,
+  .modal {
+    background: $gray0;
+    box-shadow: 0 2 rgba($gray10, 0.1);
+  }
+  .fLabel,
+  .sub {
+    color: $gray6;
+  }
+  .imgHolder {
+    color: $gray3;
+    background: $gray2;
+  }
+  .snackbar {
+    color: $gray1;
+    background: $gray9;
+  }
+  .fab {
+    color: #fff;
+  }
+}
+.Dark {
+  color: $gray1;
+  background: $gray9;
+  Page,
+  .sticky {
+    background: $gray9;
+  }
+  TextField,
+  TextView {
+    border-color: $gray8;
+    placeholder-color: $gray6;
+  }
+  .modalInput {
+    border-color: $gray7;
+  }
+  .appbar,
+  .modal {
+    color: $gray0;
+    background: $gray8;
+  }
+  .fLabel,
+  .sub {
+    color: $gray5;
+  }
+  .imgHolder {
+    color: $gray9;
+    background: $gray10;
+  }
+  .snackbar {
+    color: $gray9;
+    background: $gray1;
+  }
+  .fab {
+    color: $gray9;
+  }
+}
+.Black {
+  color: $gray2;
+  background: $gray10;
+  Page,
+  .sticky {
+    background: $gray10;
+  }
+  TextField,
+  TextView {
+    border-color: $gray9;
+    placeholder-color: $gray7;
+  }
+  .modalInput {
+    border-color: $gray8;
+  }
+  .appbar,
+  .modal {
+    color: $gray1;
+    background: $gray9;
+  }
+  .fLabel,
+  .sub {
+    color: $gray6;
+  }
+  .imgHolder {
+    color: $gray10;
+    background: $gray9;
+  }
+  .snackbar {
+    color: $gray10;
+    background: $gray2;
+  }
+  .fab {
+    color: $gray10;
+  }
+}
+
+TextField.combField,
+#search {
+  border-color: transparent;
+}
+
+// -----------------------------
+// Elements
+TextField,
+TextView {
+  // width: 100%;
+  padding: 14 8;
+  border-bottom-width: 1;
+}
+TextView {
+  line-height: 4;
+}
+#search {
+  padding: 13 8;
+}
+.inputC {
+  margin-bottom: 24;
+}
+.fLabel {
+  font-size: $t5;
+}
+progress {
+  color: $orange;
+  height: 2;
+  background-color: $gray5;
+}
+Switch {
+  background-color: $orange;
+  off-background-color: $gray5;
+}
+button {
+  z-index: 0;
+  padding: 8;
+  border-radius: 12;
+  min-width: 0;
+  min-height: 0;
+  text-transform: none;
+  background-color: transparent;
+  &.sst {
+    width: 48;
+    height: 48;
+  }
+  &.ico {
+    width: 48;
+    height: 48;
+    padding: 0;
+    margin: 0;
+    &:active {
+      @extend .fade;
+    }
+  }
+  &.si {
+    width: 40;
+    height: 40;
+  }
+  &.text {
+    color: $orange;
+  }
+  &.st {
+    font-size: $t5;
+    padding: 12;
+  }
+  &.big {
+    margin-top: 8;
+    padding: 16 0;
+  }
+  &.rate {
+    margin: 0 4 0 0;
+    width: 32;
+    height: 32;
+  }
+  &.fb:active {
+    @extend .fade;
+  }
+}
+ActivityIndicator {
+  width: 24;
+  height: 24;
+  margin: 12;
+  color: $orange;
+}
+
+// -----------------------------
+// Home
+.segment {
+  border-radius: 12;
+  padding: 8;
+  .v {
+    padding: 0 4;
+  }
+}
+.t3 {
+  font-size: $t3;
+}
+.empty {
+  padding: 16 16 8;
+}
+
+// -----------------------------
+// Recipe Item
+.recipe {
+  padding: 8 16;
+  .info {
+    padding: 0 8 4;
+  }
+  .title {
+    padding: 0 0 4;
+  }
+}
+.oh {
+  orientation: horizontal;
+}
+.t6 {
+  font-size: $t6;
+}
+.attr {
+  font-size: $t6;
+  padding: 0 4 2;
+}
+.simple .info {
+  padding: 8 0;
+}
+.minimal .title {
+  padding: 0;
+}
+.grid {
+  padding: 8;
+  .info {
+    padding: 8 0 4;
+  }
+  &.odd {
+    padding: 8 8 8 16;
+  }
+  &.even {
+    padding: 8 16 8 8;
+  }
+}
+.photogrid .info {
+  padding: 8 0 0;
+}
+.lastItem {
+  margin-bottom: 128;
+}
+.imgHolder {
+  border-radius: 12;
+}
+
+// -----------------------------
+// CookingTimer
+.timer {
+  padding: 8 16 0;
+  .info {
+    margin: 8 8 8 16;
+    &.r {
+      margin: 8 16 8 8;
+    }
+  }
+  progress {
+    margin: 8 0 0;
+  }
+}
+
+// -----------------------------
+// Settings
+.groupInfo {
+  padding: 16 16 16 72;
+  &.r {
+    padding: 16 72 16 16;
+  }
+}
+.options {
+  .option {
+    vertical-align: center;
+    padding: 14 16;
+    .ico {
+      width: 40;
+      text-align: center;
+    }
+    .info {
+      padding: 0 16;
+      @extend .tw;
+    }
+    .sub {
+      font-size: $t5;
+    }
+  }
+}
+
+// -----------------------------
+// About
+.appInfo {
+  .logo {
+    horizontal-alignment: center;
+  }
+  .name {
+    font-size: $t2;
+  }
+  .info {
+    padding: 8 16 24;
+    line-height: 4;
+  }
+}
+
+// -----------------------------
+// ViewRecipe
+.photo {
+  border-radius: 12;
+  margin: 24 16 0 0;
+  vertical-align: top;
+}
+.imgV {
+  width: 96;
+  height: 96;
+  opacity: 0;
+  background: #000;
+}
+.attrT {
+  margin: 8 16;
+  .sub {
+    font-size: $t5;
+  }
+  .v {
+    @extend .tb;
+    @extend .tw;
+  }
+}
+.check {
+  padding: 0 16;
+  .v {
+    padding: 14 16;
+    line-height: 4;
+  }
+}
+.done {
+  opacity: 0.5;
+  .v {
+    text-decoration: line-through;
+  }
+}
+.note {
+  padding: 16 24;
+  line-height: 4;
+}
+
+// -----------------------------
+// AppBar
+
+.appbar {
+  margin: 0 8 8;
+  border-radius: 16;
+  padding: 2;
+  .ico {
+    margin: 2;
+  }
+}
+.toolbar {
+  height: 1;
+  vertical-align: bottom;
+  transform: translateY(48);
+  padding: 4 2;
+  .tool {
+    orientation: horizontal;
+    padding: 0 8;
+  }
+  .v {
+    padding: 0 4;
+  }
+}
+.fab {
+  border-radius: 12;
+  background: $orange;
+}
+
+// -----------------------------
+// EditRecipe
+.section {
+  padding: 0 16;
+  margin: 32 0 16;
+}
+.t2 {
+  font-size: $t2;
+}
+.sticky {
+  width: 100%;
+  padding: 0 16 16;
+}
+
+// -----------------------------
+// MealPlanner
+.calendar {
+  padding: 0 16 16;
+  .accent.sub {
+    color: rgba($orange, 0.6);
+  }
+}
+.plans {
+  margin: 0 16;
+  .date {
+    padding: 16 0 8;
+  }
+  .type {
+    padding: 8 0;
+  }
+  .plan {
+    min-height: 48;
+    padding: 4 0;
+  }
+  .info {
+    min-height: 40;
+    padding: 0 8;
+  }
+  .note {
+    padding: 4 0;
+  }
+}
+
+// -----------------------------
+// Dialogs
+.modal {
+  max-width: 320;
+  width: 100%;
+  border-radius: 12;
+  margin: 72 0;
+  .title {
+    @extend .tb;
+    @extend .tw;
+    padding: 16;
+    font-size: $t2;
+  }
+  .input {
+    padding: 0 16 8;
+  }
+  ListPicker {
+    width: 30%;
+    height: 144;
+    margin: 16 0;
+  }
+  .listItem {
+    line-height: 4;
+    padding: 13 16;
+    background-color: transparent;
+  }
+  .actions {
+    padding: 4;
+  }
+  .filters {
+    padding: 8;
+    margin: 0 0 8;
+  }
+}
+
+// -----------------------------
+// Transitions
+.select {
+  color: $orange;
+  animation-name: select;
+  animation-duration: 0.2s;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease;
+}
+.deselect {
+  background-color: transparent;
+}
+@keyframes select {
+  0% {
+    background-color: transparent;
+  }
+  100% {
+    background-color: rgba($orange, 0.1);
+  }
+}
+.fade {
+  animation-name: fade;
+  animation-duration: 0.2s;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease;
+}
+@keyframes fade {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.75;
+  }
+}
+
+// -----------------------------
+// Helpers
+.f {
+  transform: scaleX(-1);
+}
+.accent {
+  color: $orange;
+}
+.hal {
+  horizontal-alignment: left;
+  &.r {
+    horizontal-alignment: right;
+  }
+}
+.har {
+  horizontal-alignment: right;
+  &.r {
+    horizontal-alignment: left;
+  }
+}
+.edge {
+  width: 16;
+}
+.ls {
+  height: 72;
+}
+.lh4 {
+  line-height: 4;
+}

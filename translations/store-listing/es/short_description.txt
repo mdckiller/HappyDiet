@@ -1,0 +1,1 @@
+Un administrador de recetas simple y offline

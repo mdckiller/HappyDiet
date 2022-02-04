@@ -1,0 +1,1 @@
+Ein einfaches Offline-Rezeptverwaltungsprogramm

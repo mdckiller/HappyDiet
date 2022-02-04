@@ -1,0 +1,27 @@
+EnRecipes es un libro de cocina digital, privado y de código abierto, que te permite crear, administrar y compartir tus recetas.
+
+Características:
+
+- Creá recetas rápidamente
+- Agregá foto, combinaciones y notas a tus recetas
+- Organizá tus recetas por origen, categoría y etiqueta
+- Agregá recetas a tu lista de «Probar luego» y marcalas como favoritas
+- Buscá recetas rápidamente por título o ingredientes
+- Escalá los ingredientes de tu receta para servir a más o menos comensales
+- Sé notificado de la última vez que probaste una receta
+- Compartí tu receta con quien sea, de cualquier modo, mediante un mensaje con un bello formato.
+- Agitá el dispositivo para ver una receta al azar
+- Planeá tus comidas
+- Importá/Exportá recetas
+- Tema Claro, Oscuro y Negro
+
+Destacado:
+
+- 100 % gratis y de código abierto
+- Privado por Diseño
+- No requiere permisos
+- Sin anuncios molestos ni ventanas emergentes
+
+Créditos:
+
+Esta app fue escrita en mi tiempo libre usando NativeScript-Vue. Me gustaría agradecer a todas aquellas personas quienes me ayudaron a comprender los conceptos durante el proceso, y un especial agradecimiento al equipo de NativeScript y su comunidad. También doy las gracias a los miembros del grupo de EnRecipes en Telegram por contribuir a este proyecto con sus ideas.

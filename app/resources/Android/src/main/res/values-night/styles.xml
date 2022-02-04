@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+	<style name="LaunchScreenThemeBase" parent="Theme.AppCompat.NoActionBar">
+		<item name="colorPrimary">
+			@color/orange
+		</item>
+		<item name="colorPrimaryDark">
+			@color/dark
+		</item>
+		<item name="colorAccent">
+			@color/dark
+		</item>
+		<item name="android:windowBackground">
+			@drawable/splash_screen_dark
+		</item>
+		<item name="android:windowLightStatusBar">
+			false
+		</item>
+		<item name="android:windowLightNavigationBar" tools:targetApi="27">
+			false
+		</item>
+		<item name="android:navigationBarColor" tools:targetApi="27">
+			@color/dark
+		</item>
+	</style>
+	<style name="LaunchScreenTheme" parent="LaunchScreenThemeBase">
+	</style>
+	<style name="AppThemeBase" parent="Theme.AppCompat.Light.NoActionBar">
+		<item name="colorAccent">
+			@color/orange
+		</item>
+		<item name="colorControlNormal">
+			#00000000
+		</item>
+	</style>
+	<style name="AppTheme" parent="AppThemeBase">
+		<item name="android:listViewStyle">
+			@style/ListViewTheme
+		</item>
+		<item name="android:scrollViewStyle">
+			@style/ScrollViewTheme
+		</item>
+	</style>
+	<style name="ListViewTheme" parent="android:Widget.ListView">
+		<item name="android:overScrollMode">
+			never
+		</item>
+		<item name="android:divider">
+			#00000000
+		</item>
+		<item name="android:dividerHeight">
+			0dp
+		</item>
+		<item name="android:listSelector">
+			#00000000
+		</item>
+	</style>
+	<style name="ScrollViewTheme" parent="android:Widget.ScrollView">
+		<item name="android:overScrollMode">
+			never
+		</item>
+	</style>
+</resources>

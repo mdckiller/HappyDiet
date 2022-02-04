@@ -1,0 +1,9 @@
+[NIEUW] Keuze om het systeemthema te gebruiken (Android 10 en hoger);
+[NIEUW] Kookwekker;
+[NIEUW] Individuele instellingenpagina per hulpmiddel;
+[NIEUW] Recepten kunnen voortaan willekeurig worden gesorteerd;
+[NIEUW] Ondersteuning voor van-links-naar-rechtstalen;
+[NIEUW] Afdrukondersteuning;
+[NIEUW] Maaltijden kunnen voortaan worden gekloond;
+[NIEUW] Optie om te vegen vanaf de schermrand om terug te gaan;
+[VERBETERD] Vormgeving van maaltijdschema's.

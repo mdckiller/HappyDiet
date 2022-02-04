@@ -1,0 +1,4 @@
+Only for f-droid users:
+Fdroid release got messed up on the previous update.
+If you're using v2.1.0, uninstall it first before installing this one. You can only import your data into this version from a backup file (made with v2.0.0). Your chances of getting your recipes to function are low if you don't have a backup file.
+Sorry for the trouble!

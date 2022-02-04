@@ -1,0 +1,9 @@
+- Vous pouvez désormais choisir un thème par défaut pour suivre le réglage du mode sombre de votre appareil (pour Android 10 et plus).
+- Ajout de l'outil de minuterie de cuisson
+- Page de paramètres individuelle pour chaque outil
+- Les recettes peuvent être triées dans un ordre aléatoire.
+- Prise en charge des langues écrites de droite à gauche
+- Imprimer la recette
+- Dupliquer une recette
+- Interface utilisateur du planificateur de repas remaniée
+- Balayer au bord pour retourner en arrière

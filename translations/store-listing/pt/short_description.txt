@@ -1,0 +1,1 @@
+Um gestor de receitas simples e offline

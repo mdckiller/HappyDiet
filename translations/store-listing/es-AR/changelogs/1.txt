@@ -1,0 +1,3 @@
+- Ahora podés elegir el tema por defecto del sistema para seguir al modo oscuro de tu dispositivo (Android 10 para arriba)
+- Temporizador de cocina agregado
+- Página de ajustes individual para cada herramienta

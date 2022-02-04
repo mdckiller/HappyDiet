@@ -1,0 +1,42 @@
+{
+  "name": "happydiet",
+  "main": "./app/main.ts",
+  "version": "2.0.0",
+  "description": "HappyDiet is an open source, privacy-friendly digital cookbook that lets you create, manage and share your recipes.",
+  "homepage": "https://example.com/happydiet",
+  "bugs": {
+    "url": "https://github.com/vishnuraghavb/happydiet/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnuraghavb/happydiet.git"
+  },
+  "license": "GPL",
+  "author": "Mauro de Curtis <mauro@decurtis.it>",
+  "publishConfig": {
+    "access": "public"
+  },
+  "private": "true",
+  "dependencies": {
+    "@akylas/nativescript-sqlite": "^3.3.12",
+    "@nativescript-community/ui-collectionview": "^4.0.32",
+    "@nativescript/background-http": "^5.0.2",
+    "@nativescript/core": "^8.0.8",
+    "@nativescript/localize": "^5.0.4",
+    "@triniwiz/nativescript-accelerometer": "^4.0.3",
+    "nativescript-imagecropper": "^4.0.1",
+    "nativescript-intl": "^4.0.2",
+    "nativescript-vue": "^2.9.0",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@nativescript/android": "8.1.1",
+    "@nativescript/types": "^8.0.1",
+    "@nativescript/webpack": "^5.0.0-beta.14",
+    "@types/node": "^15.12.4",
+    "nativescript-vue-template-compiler": "~2.9.0",
+    "sass": "^1.35.1",
+    "typescript": "^4.3.4",
+    "vue": "^2.6.13"
+  }
+}

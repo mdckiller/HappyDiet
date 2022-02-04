@@ -1,0 +1,8 @@
+- Ora puoi scegliere un tema predefinito di sistema per seguire l'impostazione della modalità scura del tuo dispositivo (per Android 10 e superiori)
+- È stato aggiunto il contaminuti di cottura
+- Pagina di impostazioni individuali per ogni strumento
+- Le ricette possono ora essere ordinate in modo casuale
+- Supporto delle lingue scritte da destra a sinistra
+- Si possono stampare e duplicare le ricette
+- Interfaccia utente rinnovata del pianificatore pasti
+- Scorri sul bordo per tornare indietro

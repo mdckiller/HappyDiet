@@ -1,0 +1,27 @@
+EnRecipes er fri, personvernsprogramvare. En digital kokebok som lar deg opprette, håndtere og dele oppskrifter.
+
+Funksjoner:
+
+- Opprett oppskrifter raskt
+- Legg til bilder, kombinasjoner og merknander i dine oppskrifter
+- Organiser oppskrifter etter hvilket kjøkken de tilhører, med kategorier og etiketter
+- Legg til oppskrifter i «Prøv senere»-listen og merk dem som favoritter
+- Raskt søk etter oppskriftstittel eller ingrediens
+- Få oppskriftsmengden til å passe for færre eller flere
+- Få merknader om sist du prøvde en oppskrift
+- Del din oppskrift til hvem som helst som en godt formatert melding. Du kan dele oppskriftsbilder også.
+- Rist enheten for å vise tilfeldig oppskrift
+- Måltidsplanlegger
+- Importer/eksporter oppskrifter
+- Lys, mørk og svart drakt
+
+Spesielt:
+
+- 100% fri programvare
+- Designet for personvern
+- Ingen påkrevde tilganger
+- Ingen irriterende reklame eller oppsprett
+
+Bidragsytere:
+
+Programmet ble skrevet på fritiden ved bruk av NativeScript-Vue. Jeg vil takke alle dem som har hjulpet meg å forstå konseptene under denne prosessen og spesielt takke NativeScript-laget og gemenskapen. Jeg vil også takke medlemmene av Telegram-gruppen for idéene deres.

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+	<shortcut android:shortcutId="planner" android:enabled="true" android:icon="@drawable/sc_planner" android:shortcutShortLabel="@string/planner" android:shortcutLongLabel="@string/planner">
+		<intent android:action="planner" android:targetPackage="com.mdc.nutriguide" android:targetClass="com.tns.NativeScriptActivity" />
+	</shortcut>
+	<shortcut android:shortcutId="timer" android:enabled="true" android:icon="@drawable/sc_timer" android:shortcutShortLabel="@string/timer" android:shortcutLongLabel="@string/timer">
+		<intent android:action="timer" android:targetPackage="com.mdc.nutriguide" android:targetClass="com.tns.NativeScriptActivity" />
+	</shortcut>
+	<!--
+	<shortcut android:shortcutId="grocery" android:enabled="true" android:icon="@drawable/sc_grocery" android:shortcutShortLabel="@string/grocery" android:shortcutLongLabel="@string/grocery">
+	<intent android:action="grocery" android:targetPackage="com.mdc.nutriguide" android:targetClass="com.tns.NativeScriptActivity" />
+	</shortcut>
+	-->
+</shortcuts>

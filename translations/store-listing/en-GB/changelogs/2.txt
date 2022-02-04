@@ -1,0 +1,7 @@
+- Add sections to your recipe ingredients and instructions
+- Adding or removing items in the recipe editor is even more easier
+- Ingredient quantities are now shown in fractions
+- Ingredient units are automatically converted during scaling
+- Switch measurement system under interface setting
+- Extended import and export
+- Bug fixes and improvements
